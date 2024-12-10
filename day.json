@@ -1,0 +1,36 @@
+{
+  "SASI-3-IT": [
+    {
+      "id": "1201",
+      "name": "SatyaDev",
+      "age": 20
+    },
+    {
+      "id": "1202",
+      "name": "Nikhil",
+      "age": 20
+    },
+    {
+      "id": "1203",
+      "name": "Kiran Sai",
+      "age": 20
+    }
+  ],
+  "Teacher": [
+    {
+      "id": "123",
+      "name": "Sudheer Kumar",
+      "subject": "IPR"
+    },
+    {
+      "id": "124",
+      "name": "Subhash",
+      "subject": "Python"
+    },
+    {
+      "id": "126",
+      "name": "Krupa",
+      "subject": "MPMC"
+    }
+  ]
+}
